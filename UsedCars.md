@@ -10,6 +10,6 @@
 | `color`             | VARCHAR(32)         | Colore del veicolo                                                |
 | `price_eur`         | DECIMAL(10, 2)      | Prezzo in euro                                                    |
 | `description`       | TEXT                | Descrizione                                                       |
-| `sold-date`         | TINYINT             | Indica se l'auto è già stata venduta con una data corrispettiva   |
+| `sold_date`         | DATE             | Indica se l'auto è già stata venduta con una data corrispettiva   |
 | `listed_date`       | DATE                | Data in cui l'auto è stata messa in vendita|
 | `dealer_id`         | INT (FK)            | Identificatore del concessionario (messa a FK nel caso servisse una tabella dedicata ai concessionari con le corrispettive info)
