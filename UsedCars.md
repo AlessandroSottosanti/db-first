@@ -4,7 +4,7 @@
 | `make`              | VARCHAR(64)         | Marca del veicolo                                                 |
 | `model`             | VARCHAR(64)         | Modello del veicolo                                               |
 | `year`              | DATE                | Anno di fabbricazione                                                                                                   |
-| `car_mileage_km`       | INT                 | Chilometraggio in chilometri                                                                                                      |
+| `car_mileage_km`    | INT                 | Chilometraggio in chilometri                                                                                                      |
 | `fuel_type`         | VARCHAR(32)         | Tipo di carburante                                                |
 | `transmission`      | VARCHAR(32)         | Tipo di cambio/trasmissione                                       |
 | `color`             | VARCHAR(32)         | Colore del veicolo                                                |
