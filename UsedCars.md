@@ -1,5 +1,5 @@
-| **Proprietà**         | **Tipo**            | **Descrizione**                                                                 |
-|---------------------|---------------------|---------------------------------------------------------------------------------|
+| **Proprietà**       | **Tipo**            | **Descrizione**                                                   |
+|---------------------|---------------------|-------------------------------------------------------------------|
 | `id`                | INT (PK)  NOTNULL   | Identificatore univoco per ogni auto                              |
 | `make`              | VARCHAR(64)         | Marca del veicolo                                                 |
 | `model`             | VARCHAR(64)         | Modello del veicolo                                               |
